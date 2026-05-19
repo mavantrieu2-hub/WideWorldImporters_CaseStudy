@@ -37,6 +37,7 @@ Independently investigated potential operational issues across three core busine
 - **Sales team**: Review cost-floor pricing policy for loss-making SKUs.
 
 ## 📊 Dashboard
+![Dashboard](02_Image/02_Dashboard/Slide_1_OverviewWWI.JPG)
 
 ## ⚠️ Limitations
 - Sample database — not real production data.
