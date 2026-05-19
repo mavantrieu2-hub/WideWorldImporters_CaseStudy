@@ -31,13 +31,12 @@ Independently investigated potential operational issues across three core busine
 3. **Loss-making Orders** — $320K negative line profit from products sold below cost (Halloween zombie masks).
 
 ## 💡 Recommendations
-* Each insight is presented with actionable next steps for relevant stakeholders:
 - **Procurement team**: Shift to quantity-driven purchasing model.
 - **Warehouse team**: Audit top 5 shrinkage items, implement stock reconciliation.
 - **Sales team**: Review cost-floor pricing policy for loss-making SKUs.
 
 ## 📊 Dashboard
-* Slide 1: Purchase - Overview about Wide World Importers
+* Slide 1: Overview about Wide World Importers
 ![Dashboard](02_Image/02_Dashboard/Slide_1_OverviewWWI.JPG)
 
 * Slide 2: Purchase - Is our product strategy delivering value?
