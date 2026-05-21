@@ -2,7 +2,7 @@
 
 ## 📋 Background
 **Wide World Importers** (WWI) is a wholesale novelty goods importer and distributor. This analysis examines **business performance** 
-across Purchase, Warehouse, and Sales to identify operational inefficiencies and **growth opportunities**.
+across Purchase, Warehouse, and Sales to identify operational **inefficiencies** and **growth opportunities**.
 
 ## ❓ Business Questions
 Independently investigated potential operational issues across three core business areas and provided actionable recommendations:
