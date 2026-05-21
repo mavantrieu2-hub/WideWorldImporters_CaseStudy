@@ -1,8 +1,8 @@
 # Wide World Importers: Business Performance Analysis
 
 ## 📋 Background
-Wide World Importers (WWI) is a wholesale novelty goods importer and distributor. This analysis examines business performance 
-across Purchase, Warehouse, and Sales to identify operational inefficiencies and growth opportunities.
+**Wide World Importers** (WWI) is a wholesale novelty goods importer and distributor. This analysis examines **business performance** 
+across Purchase, Warehouse, and Sales to identify operational inefficiencies and **growth opportunities**.
 
 ## ❓ Business Questions
 Independently investigated potential operational issues across three core business areas and provided actionable recommendations:
@@ -26,14 +26,14 @@ Independently investigated potential operational issues across three core busine
   Receipt-to-Issue Ratio, Consumption Rate, Stock Cover Years, etc.
 
 ## 🔍 Key Insights
-1. **Purchasing Mismatch** — Order-driven vs Quantity-driven procurement causing inefficiency
-2. **Inventory Data Integrity** — 6.6M unaccounted quantity making stock levels unreliable despite correct purchasing decisions
-3. **Loss-making Orders** — $320K negative line profit from products sold below cost (Halloween zombie masks).
+1. **Purchasing Mismatch** — Order-driven vs **Quantity-driven** procurement causing inefficiency
+2. **Inventory Data Integrity** — **6.6M unaccounted quantity** making stock levels unreliable despite correct purchasing decisions
+3. **Loss-making Orders** — **$320K negative line profit** from products sold below cost (Halloween zombie masks).
 
 ## 💡 Recommendations
-- **Procurement team**: Shift to quantity-driven purchasing model.
-- **Warehouse team**: Audit top 5 shrinkage items, implement stock reconciliation.
-- **Sales team**: Review cost-floor pricing policy for loss-making SKUs.
+- **Procurement team**: **Shift** to quantity-driven purchasing model.
+- **Warehouse team**: **Audit top 5 shrinkage items**, implement stock reconciliation.
+- **Sales team**: **Review cost-floor pricing policy** for loss-making SKUs.
 
 ## 📊 Dashboard
 * **Slide 1**: Overview about Wide World Importers
