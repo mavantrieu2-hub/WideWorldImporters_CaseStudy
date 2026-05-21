@@ -48,6 +48,7 @@ Independently investigated potential operational issues across three core busine
 * Slide 4: Sales - Are there any issues with our sales performance?
 ![Dashboard](02_Image/02_Dashboard/Slide_4_Sales_AreThereAnyIssuesWithOurSalesPerformance.JPG)
 
+* Power BI Service Dashboard: [Dashboard_WWI_by_MaVanTrieu](https://app.powerbi.com/view?r=eyJrIjoiZDRkZmUyMTItMTBmMy00Zjc5LThjNjgtZDkwZDA4MDYwNjkxIiwidCI6IjQ5OWE1OTgxLWNhZTktNGQ3ZC1iZTIyLTRhMDQ0OTRlNjFhOCIsImMiOjEwfQ%3D%3D)
 ## ⚠️ Limitations
 - Sample database — not real production data.
 - Data period: 2013-2016.
