@@ -36,19 +36,19 @@ Independently investigated potential operational issues across three core busine
 - **Sales team**: Review cost-floor pricing policy for loss-making SKUs.
 
 ## 📊 Dashboard
-* Slide 1: Overview about Wide World Importers
+* **Slide 1**: Overview about Wide World Importers
 ![Dashboard](02_Image/02_Dashboard/Slide_1_OverviewWWI.JPG)
 
-* Slide 2: Purchase - Is our product strategy delivering value?
+* **Slide 2**: Purchase - Is our product strategy delivering value?
 ![Dashboard](02_Image/02_Dashboard/Slide_2_Purchase_IsOurProductStrategyDeliveringValue.JPG)
 
-* Slide 3: Warehouse - Is our inventory under effective control?
+* **Slide 3**: Warehouse - Is our inventory under effective control?
 ![Dashboard](02_Image/02_Dashboard/Slide_3_Warehouse_IsOurInventoryUnderEffectiveControl.JPG)
 
-* Slide 4: Sales - Are there any issues with our sales performance?
+* **Slide 4**: Sales - Are there any issues with our sales performance?
 ![Dashboard](02_Image/02_Dashboard/Slide_4_Sales_AreThereAnyIssuesWithOurSalesPerformance.JPG)
 
-* Power BI Service Dashboard: [Dashboard_WWI_by_MaVanTrieu](https://app.powerbi.com/view?r=eyJrIjoiZDRkZmUyMTItMTBmMy00Zjc5LThjNjgtZDkwZDA4MDYwNjkxIiwidCI6IjQ5OWE1OTgxLWNhZTktNGQ3ZC1iZTIyLTRhMDQ0OTRlNjFhOCIsImMiOjEwfQ%3D%3D)
+* **Power BI Service Dashboard**: [Dashboard_WWI_by_MaVanTrieu](https://app.powerbi.com/view?r=eyJrIjoiZDRkZmUyMTItMTBmMy00Zjc5LThjNjgtZDkwZDA4MDYwNjkxIiwidCI6IjQ5OWE1OTgxLWNhZTktNGQ3ZC1iZTIyLTRhMDQ0OTRlNjFhOCIsImMiOjEwfQ%3D%3D)
 ## ⚠️ Limitations
 - Sample database — not real production data.
 - Data period: 2013-2016.
